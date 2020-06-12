@@ -9,4 +9,5 @@ Which Tool When PowerApp to help enterprise users determine which tool to use fo
 5. Test the app
 6. Publish and Share the app
 
-If you prefer to use hte Which Tool When Modern Collaboration Architecture Edition, use the WhichToolWhen-MOCA files for the steps above.
+If you prefer to use the Which Tool When Modern Collaboration Architecture Edition, use the WhichToolWhen-MOCA files for the steps above.
+For more information on the Modern Collaboration Architecture, check out [Rishi Nicolai's](https://au.linkedin.com/in/rishinicolai) [session from Ignite](https://myignite.techcommunity.microsoft.com/sessions/83890).
