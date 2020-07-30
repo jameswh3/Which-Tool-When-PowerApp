@@ -17,4 +17,4 @@ For detailed instructions check out "WTW - Instructions.docx" in the repo.
 # Setup Video
 [![Watch the setup video](https://img.youtube.com/vi/GNkRMquxWIs/hqdefault.jpg)](https://youtu.be/GNkRMquxWIs)
 
-For more information on the Modern Collaboration Architecture, check out [MOCA](https://adoption.microsoft.com/enabling-modern-collaboration/)
+For more information on the Modern Collaboration Architecture, check out [MOCA](https://adoption.microsoft.com/enabling-modern-collaboration/).
