@@ -1,5 +1,8 @@
-# Which-Tool-When-PowerApp
-Which Tool When PowerApp to help enterprise users determine which tool to use for a given scenario.
+# MOCA Application for Which Tool When
+The Modern Collaboaration App is your guide to get the best out of Microsoft 365!
+
+# Teaser Video
+[![Watch the teaser video](https://img.youtube.com/vi/Tmy01vhd9mM/hqdefault.jpg)](https://youtu.be/Tmy01vhd9mM)
 
 # Installation Steps
 1. Download the WhichToolWhen.zip File
@@ -9,5 +12,9 @@ Which Tool When PowerApp to help enterprise users determine which tool to use fo
 5. Test the app
 6. Publish and Share the app
 
-If you prefer to use the Which Tool When Modern Collaboration Architecture Edition, use the WhichToolWhen-MOCA files for the steps above.
-For more information on the Modern Collaboration Architecture, check out [Rishi Nicolai's](https://au.linkedin.com/in/rishinicolai) [session from Ignite](https://myignite.techcommunity.microsoft.com/sessions/83890).
+For detailed instructions check out "WTW - Instructions.docx" in the repo.
+
+# Setup Video
+[![Watch the setup video](https://img.youtube.com/vi/GNkRMquxWIs/hqdefault.jpg)](https://youtu.be/GNkRMquxWIs)
+
+For more information on the Modern Collaboration Architecture, check out [MOCA](https://adoption.microsoft.com/enabling-modern-collaboration/).
